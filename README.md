@@ -1,4 +1,4 @@
-# Quine-McKluskey-Minimizer
+# quine-mccluskey-minimizer
 Python implementation of the quine-mckluskey algorithm to minimize boolean functions
 
 ### How to Run
